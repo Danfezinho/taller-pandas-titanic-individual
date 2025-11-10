@@ -5,7 +5,7 @@
 Análisis exploratorio completo del dataset Titanic utilizando Pandas y Python.
 
 ## Integrante
-- [Tu Nombre Completo] - Análisis completo de datos
+- Daniel Felipe Sierra Cuellar - Análisis completo de datos
 
 ## Objetivos
 - Realizar análisis exploratorio de datos con Pandas
