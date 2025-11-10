@@ -35,4 +35,4 @@ taller-pandas-titanic-individual/
 4. Ejecutar el notebook principal en `notebooks/`
 
 ## Estado del Proyecto
-🚧 En desarrollo - 60% completado
+🚧 En desarrollo - 95% completado
