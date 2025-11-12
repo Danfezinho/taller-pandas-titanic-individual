@@ -36,5 +36,5 @@ taller-pandas-titanic-individual/
 
 ## Estado del Proyecto
 
-🚧 En desarrollo - 90% completado
+🚧 En desarrollo - 100% completado
 
